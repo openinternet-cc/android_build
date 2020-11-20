@@ -37,6 +37,7 @@ PRODUCT_PACKAGES += \
     SettingsIntelligence \
     StorageManager \
     SystemUI \
+		VPN \
     WallpaperCropper \
     frameworks-base-overlays
 
