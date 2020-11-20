@@ -33,6 +33,7 @@ $(call inherit-product-if-exists, frameworks/webview/chromium/chromium.mk)
 
 PRODUCT_PACKAGES += \
     BasicDreams \
+		VPN \
     BlockedNumberProvider \
     Bluetooth \
     BluetoothMidiService \
