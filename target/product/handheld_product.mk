@@ -26,6 +26,7 @@ PRODUCT_PACKAGES += \
 		Hotspot \
 		SpeedTest \
 		Forcastie \
+		Lawnchair \
     Browser2 \
     Camera2 \
     Contacts \
