@@ -24,10 +24,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/media_product.mk)
 PRODUCT_PACKAGES += \
 		VPN \
 		Hotspot \
-		SpeedTest \
 		Forcastie \
     Browser2 \
     Camera2 \
+		Dialer \
+		Gallery2 \
+		Messaging \
     Contacts \
     DeskClock \
     Launcher3QuickStep \
