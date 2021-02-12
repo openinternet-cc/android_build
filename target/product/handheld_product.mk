@@ -26,6 +26,7 @@ PRODUCT_PACKAGES += \
 		Hotspot \
 		Forcastie \
     Browser2 \
+		F-droid \
     Camera2 \
 		Dialer \
 		Gallery2 \
