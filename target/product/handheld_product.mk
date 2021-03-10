@@ -22,10 +22,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/media_product.mk)
 
 # /product packages
 PRODUCT_PACKAGES += \
+		DuckDuckGo \
 		VPN \
-		Hotspot \
 		Forcastie \
-    Browser2 \
 		F-droid \
     Camera2 \
 		Dialer \
